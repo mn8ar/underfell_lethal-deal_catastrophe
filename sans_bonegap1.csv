@@ -1,0 +1,21 @@
+0,CombatZoneResize,133,251,508,391,TLResume,,
+0,HeartTeleport,320,376,,,,,
+0,HeartMode,1,,,,,,
+0,TLPause,,,,,,,
+0,SansHead,Wink,,,,,,,
+0,SansTorso,Shrug,,,,,,,
+0,SansText,I think you will need                  at least thirty attempts                    to win,,
+0,SansTorso,Default,,,,,,,
+0,SansHead,Default,,,,,,,
+0.2,BoneVRepeat,128,260,90,0,200,9,200
+0,BoneVRepeat,503,260,90,2,200,9,200
+0,BoneVRepeat,503,366,20,2,200,9,200
+0,BoneVRepeat,128,366,20,0,200,9,200
+0.5,BoneVRepeat,128,280,105,0,200,9,200,1
+0,BoneVRepeat,503,280,105,2,200,9,200,1
+8.5,BoneVRepeat,503,320,65,2,200,1,200
+0,BoneVRepeat,128,320,65,0,200,1,200
+1,SansBody,HandUp,,,,
+0.26666,SansSlam,3,,,,
+0,BoneStab,3,60,0.4,0.3,
+1.2,EndAttack,,,,,,,,
